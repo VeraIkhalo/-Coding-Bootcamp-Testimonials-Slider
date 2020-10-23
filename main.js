@@ -7,7 +7,7 @@ const quotes = [
     quote: `“ I’ve been interested in coding for a while but never taken the jump, until now. 
               I couldn’t recommend this course enough. I’m now in the job of my dreams and so 
               excited about the future. ”`,
-    imageURL: "image-tanya.jpg"
+    imageURL: "images/image-tanya.jpg"
   },
   {
     name: "John Tarkpor",
@@ -15,7 +15,7 @@ const quotes = [
     quote: `“ If you want to lay the best foundation possible I’d recommend taking this course. 
               The depth the instructors go into is incredible. I now feel so confident about 
               starting up as a professional developer. ”`,
-    imageURL: "image-john.jpg"
+    imageURL: "images/image-john.jpg"
   }
 ];
 
